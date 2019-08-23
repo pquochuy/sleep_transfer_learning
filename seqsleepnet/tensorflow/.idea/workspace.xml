@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92d2afef-5982-4f38-be9b-98f5388e1346" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>han</find>
+      <find>eval_emg</find>
+      <find>shuffle</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>emg</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/finetuning/datagenerator_from_list_v2.py" />
+        <option value="$PROJECT_DIR$/finetuning/filterbank_shape.py" />
+        <option value="$PROJECT_DIR$/finetuning/nn_basic_layers.py" />
+        <option value="$PROJECT_DIR$/finetuning/seqsleepnet_config.py" />
+        <option value="$PROJECT_DIR$/finetuning/seqsleepnet.py" />
+        <option value="$PROJECT_DIR$/finetuning/train_seqsleepnet.py" />
+        <option value="$PROJECT_DIR$/finetuning/test_seqsleepnet.py" />
+        <option value="$PROJECT_DIR$/seqsleepnet/finetune_all.sh" />
+        <option value="$PROJECT_DIR$/seqsleepnet/train_scratch.sh" />
+        <option value="$PROJECT_DIR$/seqsleepnet/train_seqsleepnet.py" />
+        <option value="$PROJECT_DIR$/seqsleepnet/test_seqsleepnet.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="760" />
+    <option name="y" value="23" />
+    <option name="width" value="680" />
+    <option name="height" value="717" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/seqsleepnet" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="760" y="23" width="680" height="717" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4188164" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/finetuning/bnlstm.py" />
+    <entry file="file://$PROJECT_DIR$/finetuning/datagenerator_from_list_v2.py" />
+    <entry file="file://$PROJECT_DIR$/finetuning/filterbank_shape.py" />
+    <entry file="file://$PROJECT_DIR$/finetuning/han_sleep.py" />
+    <entry file="file://$PROJECT_DIR$/finetuning/run_cover.sh" />
+    <entry file="file://$PROJECT_DIR$/finetuning/nn_basic_layers.py" />
+    <entry file="file://$PROJECT_DIR$/finetuning/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/scratch/test_han_sleep_gpu0.py" />
+    <entry file="file://$PROJECT_DIR$/scratch/train_han_sleep_gpu2.py" />
+    <entry file="file://$PROJECT_DIR$/finetuning/seqsleepnet.py" />
+    <entry file="file://$PROJECT_DIR$/finetuning/seqsleepnet_config.py" />
+    <entry file="file://$PROJECT_DIR$/finetuning/test_seqsleepnet.py" />
+    <entry file="file://$PROJECT_DIR$/finetuning/train_seqsleepnet.py" />
+    <entry file="file://$PROJECT_DIR$/seqsleepnet/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/seqsleepnet/finetune_all.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seqsleepnet/train_scratch.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seqsleepnet/finetune_softmax.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seqsleepnet/finetune_softmax_EPB.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seqsleepnet/finetune_softmax_SPB.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seqsleepnet/test_seqsleepnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="290" column="24" lean-forward="true" selection-start-line="290" selection-start-column="24" selection-end-line="290" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seqsleepnet/train_seqsleepnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51e45568-d34c-476c-a1b1-1b2e991b1a4f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deepsleepnet/finetune_all.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fc_bn</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/deepsleepnet/deepsleepnet_config.py" />
+        <option value="$PROJECT_DIR$/deepsleepnet/datagenerator_from_list_v2.py" />
+        <option value="$PROJECT_DIR$/deepsleepnet/deepsleepnet.py" />
+        <option value="$PROJECT_DIR$/deepsleepnet/nn_basic_layers.py" />
+        <option value="$PROJECT_DIR$/deepsleepnet/train_deepsleepnet.py" />
+        <option value="$PROJECT_DIR$/deepsleepnet/test_deepsleepnet.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="759" />
+    <option name="height" value="718" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/deepsleepnet" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="759" height="718" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43631437" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32874617" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/deepsleepnet/config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepsleepnet/datagenerator_from_list_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepsleepnet/deepsleepnet_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepsleepnet/nn_basic_layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2082">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepsleepnet/deepsleepnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch/train_deepsleepnet_gpu2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepsleepnet/train_deepsleepnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6732">
+          <caret line="396" column="31" lean-forward="true" selection-start-line="396" selection-start-column="31" selection-end-line="396" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch/train_deepsleepnet_gpu0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch/test_deepsleepnet_gpu0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1704" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepsleepnet/test_deepsleepnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4505">
+          <caret line="265" column="27" selection-start-line="265" selection-start-column="27" selection-end-line="265" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deepsleepnet/finetune_all.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
