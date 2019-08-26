@@ -53,7 +53,7 @@ After training/finetuning and testing the network on test data:
 
 ![deepsleepnet_results](figure/deepsleepnet_finetuning.png)
 
-Environment:
+## Environment:
 -------------
 - Matlab v7.3 (for data preparation)
 - Python3
@@ -75,7 +75,11 @@ The experiments only used the __in-bed__ parts (from _light off_ time to _light 
 
 Meta information (e.g. _light off_ and _light on_ times to extract the __in-bed__ parts data from the whole day-night recordings the meta information is provided in `sleepedfx_meta`.
 
-Contact:
--------------
+## Contact:
+
 Huy Phan <br>
 Email: huy.phan{at}ieee.org or h.phan{a}kent.ac.uk  
+
+## License
+
+MIT © Huy Phan
