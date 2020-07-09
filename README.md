@@ -77,8 +77,10 @@ Meta information (e.g. _light off_ and _light on_ times to extract the __in-bed_
 
 ## Contact:
 
-Huy Phan <br>
-Email: huy.phan{at}ieee.org or h.phan{a}kent.ac.uk  
+Huy Phan  
+School of Electronic Engineering and Computer Science  
+Queen Mary University of London  
+Email: h.phan{at}qmul.ac.uk  
 
 ## License
 
