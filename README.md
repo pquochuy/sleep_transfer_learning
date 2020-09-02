@@ -4,7 +4,7 @@
 
 This repository contains source code, pretrained models, and experimental setup in the manuscript:
 
-- Huy Phan, Oliver Y. Chén, Philipp Koch, Zongqing Lu, Ian McLoughlin, Alfred Mertins, and Maarten De Vos. [__Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning.__](https://arxiv.org/abs/1907.13177) _arXiv preprint arXiv:1907.13177_, 2019
+- Huy Phan, Oliver Y. Chén, Philipp Koch, Zongqing Lu, Ian McLoughlin, Alfred Mertins, and Maarten De Vos. [__Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning.__](https://arxiv.org/abs/1907.13177) _IEEE Transactions on Biomedical Engineeriing (TBME)_, August 2020
 
 <img src="figure/Sleep_Transfer.png" class="center" alt="Sleep Transfer Learning" width="450"/>
 
